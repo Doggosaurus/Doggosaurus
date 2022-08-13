@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Doggosaurus
+- 👀 I’m interested in Coding , Malware
+- 🌱 I’m currently learning C# 
