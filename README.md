@@ -11,8 +11,6 @@
 <img align="right" width="359" height="auto" alt="Doggosauru's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doggosaurus&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 </h2>
 <!--- Snake Graph --->
-<p align="center">
-<img src="![snake gif](https://github.com/Doggosaurus/Doggosaurus/blob/output/github-contribution-grid-snake.gif)" alt="snake" style="max-width: 100%;">
 </p>
 <br>
 <br>
