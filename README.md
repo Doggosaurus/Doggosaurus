@@ -12,7 +12,7 @@
 </h2>
 <!--- Snake Graph --->
 <p align="center">
-<img src="https://github.com/Doggosaurus/Doggosaurus/blob/main/snake.yml" alt="snake" style="max-width: 100%;">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif" alt="snake" style="max-width: 100%;">
 </p>
 <br>
 <br>
